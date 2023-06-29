@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm HeeJeong Joo! 🙌
+
+##### 👩‍💻  I'm a software convergence student.
+##### ☁  Studying for Cloud and Backend Engineering.
+##### ☁  Interested in Cloud, architecture, JAVA ...
+##### 🚴‍♂️  A developer who walks slowly but vigorously!
+
+## 💭 About me | How to reach me
+- Contact :  <heeej920@naver.com>
+- LinkedIn : www.linkedin.com/in/heejeong-joo/
+- Dev_Blog : https://hj-tech.tistory.com/
+- 🛠 I'm still getting ready!
+
+
+<!-- ![HeeJj's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooHeeJeong&show_icons=true&theme=radical) -->
