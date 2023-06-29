@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JooHeeJeong/JooHeeJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm HeeJeong Joo! 🙌
+# Hi there 👋 I'm HeeJeong Joo! 🙌
 
 ##### 👩‍💻  I'm a software convergence student.
 ##### ☁  Studying for Cloud and Backend Engineering.
