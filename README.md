@@ -13,13 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋 I'm HeeJeong Joo! 🙌
+###
+###      
 <!--![ThumbsThumbsUpGIF](https://github.com/heejeongJ/heejeongJ/assets/91328882/47970575-a24f-4ee3-87b5-bf2a34519aaa)-->
-![WavesGlimmeringGIF](https://github.com/heejeongJ/heejeongJ/assets/91328882/d76a5ab9-0d5a-408e-a133-af331b1a98db)
+<!--![img](https://github.com/heejeongJ/heejeongJ/assets/91328882/d76a5ab9-0d5a-408e-a133-af331b1a98db)-->
+<img src = "https://github.com/heejeongJ/heejeongJ/assets/91328882/d76a5ab9-0d5a-408e-a133-af331b1a98db" width = 600px height = 350px>
 
 ### 👩‍💻  I'm a software convergence student.
 ### ☁  Studying for Cloud and Backend Engineering.
 ### ☁  Interested in Cloud, architecture, JAVA ...
-### 🚴‍♂️  A developer who walks slowly but vigorously!
+### 🚴‍♂️ A developer who walks slowly but vigorously!
 
 ## 💭 About me | How to reach me
 - Contact :  <heeej920@naver.com>
