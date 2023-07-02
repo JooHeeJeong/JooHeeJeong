@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋 I'm HeeJeong Joo! 🙌
+<!--![ThumbsThumbsUpGIF](https://github.com/heejeongJ/heejeongJ/assets/91328882/47970575-a24f-4ee3-87b5-bf2a34519aaa)-->
+![WavesGlimmeringGIF](https://github.com/heejeongJ/heejeongJ/assets/91328882/d76a5ab9-0d5a-408e-a133-af331b1a98db)
 
 #### 👩‍💻  I'm a software convergence student.
 #### ☁  Studying for Cloud and Backend Engineering.
