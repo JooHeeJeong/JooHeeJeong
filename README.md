@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 ### ☁  Studying for Cloud and Backend Engineering.
 ### ☁  Interested in Cloud, architecture, JAVA ...
 ### 🚴‍♂️ A developer who walks slowly but vigorously!
-
+&nbsp;
+<!--## Skills & Study
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=#FF9900"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>-->
 &nbsp;
 ## 💭 About me | How to reach me
 - Contact :  <heeej920@naver.com>
