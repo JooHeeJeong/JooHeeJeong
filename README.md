@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 2021.09 ~ 2021.12 : 금융권 웹 개발 공모전(2) 본선 진출 <br>
 2021.09 ~ 2021.12 : 서울여자대학교 개발 창업 공모전 최우수상 수상 (허브형 플랫폼 개발) <br>
 2021.09 ~ 2021.12 : SWUDev 개발 동아리 창설 & 리드 <br>
-2021.06 ~ 2021.08 : SWU GURU Clone Web Development 장려상 수상 <br>
+2021.06 ~ 2021.08 : SWU GURU Clone Web Development 우수상 수상 <br>
 2021.03 ~ 2021.06, 2021.09 ~ 2021.12 : 교내 C++ Programming 스터디그룹 리드 <br>
-2021.03 : 서울여자대학교 소프트웨어융합학과 입학 <br>
+<!--2021.03 : 서울여자대학교 소프트웨어융합학과 입학 <br>-->
 
 
 <!--## Skills & Study
