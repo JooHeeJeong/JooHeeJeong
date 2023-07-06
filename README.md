@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 2023.03 ~ 2023.06 : 서울여자대학교 2023-1 JAVA Programming (Prof. Jun Hwang) 학부생 조교 <br>
 2023.07 ~ 현재 : 음식 처리 캠페인 앱 서울 시립 과학관 전시 <br>
 2023.03 ~ 2023.05 : 음식 처리 앱 설계, 우수 작품 선정 <br>
-2022.12 ~ 2023.02 : 2022 자유학교 SW 어드바이저 (Python, 아두이노 활용) <br>
+2022.12 ~ 2023.02 : 2022 SW 어드바이저 (Python, 아두이노 활용) <br>
 2022.12 ~ 2023.02 : SWU Guru Android App - Backend 참여 <br>
 2022.09 ~ 2022.12 : 알고리즘 스터디, JAVA Programming 스터디 진행 <br>
 2022.03 ~ 2022.06 : 'Modern Technology and Crafts' 주제 앱 설계 <br>
