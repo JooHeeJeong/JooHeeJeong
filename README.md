@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### ☁  Interested in Cloud, architecture, JAVA ...
 ### 🚴‍♂️ A developer who walks slowly but vigorously!
 &nbsp;
-## 🧩 Activities
+## 💪 Activities
 2023.06.22 ~ 현재 : Software Convergence Lab 학부연구생 <br>
 2023.07 ~ 현재 : AWS Cloud 스터디 그룹/동아리 리드 <br>
 2023.05.26 : AWS Cloud Career 우수 참여자 선발, AWS Working Backward Workshop 참여 <br>
