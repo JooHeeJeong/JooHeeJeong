@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 &nbsp;
 ## 💪 Activities
 2023.06.22 ~ 현재 : Software Convergence Lab 학부연구생 <br>
-2023.07 ~ 현재 : AWS Cloud 연합 동아리 & 스터디 그룹 리드 <br>
-2023.08.03, 2023.08.04 : AWS 행사 co-facilitator(진행) 참여 <br>
+2023.07 ~ 현재 : AWS Cloud 연합 동아리 창설 & 리드 <br>
+2023.08.03, 2023.08.04 : AWS 행사 co-facilitator(진행) <br>
 2023.05.26 : AWS Cloud Career 우수 참여자 선발, AWS Working Backward Workshop 참여 <br>
 2023.04.11 ~ 현재 : 주식 퀀트 트레이딩 솔루션 웹 개발 프로젝트 진행 - Backend, Cloud <br>
 2023.03.31 : Microsoft Career Mentoring Day 참여, 한국마이크로소프트사와 개인 인터뷰 & 신문사 기사 [중앙일보](https://www.joongang.co.kr/article/25152541#home) <br>
