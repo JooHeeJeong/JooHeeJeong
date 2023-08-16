@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### 🚴‍♂️ A developer who walks slowly but vigorously!
 &nbsp;
 ## 💪 Activities
-2023.06.22 ~ 현재 : Software Convergence Lab 학부연구생 <br>
+<!--2023.06.22 ~ 현재 : Software Convergence Lab 학부연구생 <br>-->
 2023.07 ~ 현재 : AWS Cloud 연합 동아리 창설 & 리드 <br>
 2023.08.03, 2023.08.04 : AWS 행사 co-facilitator(진행) <br>
 2023.06.27 ~ 2023.08.08 : JAVA programming project 튜터 <br>
