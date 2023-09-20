@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ## 💪 Activities
 2023.06.22 ~ 현재 : Software Convergence Lab 학부연구생 <br>
 2023.07 ~ 현재 : Cloud 연합 동아리 창설 & 리드 <br>
+2023.09.05 ~ 2023.09.08 : Kakao x goorm 7th goormthon in JEJU -  Backend 참여 <br>
 2023.08.03, 2023.08.04 : AWS 행사 co-facilitator(진행) <br>
 2023.06.27 ~ 2023.08.08 : JAVA programming project 튜터 <br>
 2023.05.26 : AWS Cloud Career 우수 참여자 선발, AWS Working Backward Workshop 참여 <br>
