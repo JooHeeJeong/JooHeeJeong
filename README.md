@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 ### 🚴‍♂️ A developer who walks slowly but vigorously!
 &nbsp;
 ## 💪 Activities
-2924.02.27, 2024.03.16 ~ 2024.03.17 : AWS co-facilitator (강화학습 기반 딥레이서, 클라우드)
-2024.03.21 ~ : JAVA programming 튜터
+2924.02.27, 2024.03.16 ~ 2024.03.17 : AWS co-facilitator (강화학습 기반 딥레이서, 클라우드) <br>
+2024.03.21 ~ : JAVA programming 튜터 <br>
 2023.12.02, 2023.12.03, 2024.03.17 : AWS 사외행사 co-facilitator(진행) <br>
 2023.06.22 ~ 현재 : Software Convergence Lab 학부연구생 <br>
 2023.07 ~ 현재 : Cloud 연합 동아리 창설 & 리드 <br>
