@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 2024.03.30 : AWS main facilitator (Working Backward Workshop 메인 진행 & 강연)<br>
 2024.03.13, 2024.03.17 : AWS co-facilitator (AWS 클라우드 배포 서포트 in 포항공대)<br>
 2024.02.27, 2024.03.16 ~ 2024.03.17 : AWS co-facilitator (강화학습 기반 딥레이서, 클라우드) <br>
-2024.03.21 ~ : JAVA programming 튜터 <br>
+2024.03.21 ~ 2024.09.28 : JAVA programming 튜터 <br>
 2023.12.02, 2023.12.03, 2024.03.17 : AWS 사외행사 co-facilitator(진행) <br>
 2023.06.22 ~ 현재 : Software Convergence Lab 학부연구생 <br>
 2023.07 ~ 현재 : Cloud 연합 동아리 창설 & 리드 <br>
