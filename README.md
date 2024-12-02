@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 &nbsp;
 ## 💪 Activities
 2024.03.29 ~ 2024.12 : UMC 스프링 동아리원 & 스프링파트장(24.09~)<br>
-2024.08.29, 2024.08.30 : 프롬프트 해커톤 멘토 (프롬프트 엔지니어링 지도)
+2024.08.29, 2024.08.30 : 프롬프트 해커톤 멘토 (프롬프트 엔지니어링 지도)<br>
 2024.03.30 : AWS main facilitator (Working Backward Workshop 메인 진행 & 강연)<br>
 2024.03.13, 2024.03.17 : AWS co-facilitator (AWS 클라우드 배포 서포트 in 포항공대)<br>
 2024.02.27, 2024.03.16 ~ 2024.03.17 : AWS co-facilitator (강화학습 기반 딥레이서, 클라우드) <br>
