@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 ### 🚴‍♂️ A developer who walks slowly but vigorously!
 &nbsp;
 ## 💪 Activities
+<!--
+2024.12.30 ~ : 오비고 백엔드 개발자 인턴 <br>
 2024.03.29 ~ 2024.12 : UMC 스프링 동아리원 & 스프링파트장(24.09~)<br>
 2024.08.29, 2024.08.30 : 프롬프트 해커톤 멘토 (프롬프트 엔지니어링 지도)<br>
 2024.03.30 : AWS main facilitator (Working Backward Workshop 메인 진행 & 강연)<br>
@@ -52,6 +54,7 @@ Here are some ideas to get you started:
 2021.09 ~ 2021.12 : SWUDev 개발 동아리 창설 & 리드 <br>
 2021.06 ~ 2021.08 : SWU GURU Clone Web Development 우수상 수상 <br>
 2021.03 ~ 2021.06, 2021.09 ~ 2021.12 : 교내 C++ Programming 스터디그룹 리드 <br>
+-->
 <!--2021.03 : 서울여자대학교 소프트웨어융합학과 입학 <br>-->
 
 
@@ -61,7 +64,8 @@ Here are some ideas to get you started:
 ## 💭 About me | How to reach me
 - Contact :  <heeej920@naver.com>
 - LinkedIn : www.linkedin.com/in/heejeong-joo/
-- Dev_Blog : https://hj-tech.tistory.com/
+<!--
+- Dev_Blog : https://hj-tech.tistory.com/ -->
 - 🛠 I'm still getting ready!
 
 
